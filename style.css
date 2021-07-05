@@ -42,11 +42,11 @@ h1{
     font-weight: 400px;
 }
 .top-banner{
-    background-image: url('/Topbanner.png');
+    background-image: url("Topbanner.png");
    
 }
 .top-banner1{
-    background-image: url('/Topbanner.png');
+    background-image: url("Topbanner.png");
    
 }
 /* --second projrct end-- */
